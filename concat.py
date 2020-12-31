@@ -1,5 +1,5 @@
 from moviepy.editor import *
-from setup import SOURCE_PATH1, SOURCE_PATH2, OUTPUT_PATH, OUTPUT_MP4_PATH
+from setup import *
 
 
 clip1 = VideoFileClip(SOURCE_PATH1)
